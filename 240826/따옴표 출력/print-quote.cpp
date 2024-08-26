@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "\""
+    cout << "He says \"It\'s a really simple sentence\".";
     return 0;
 }
