@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout.precision(10);
+    cout.precision(11);
     cout << "Total days in Year" << endl;
     cout << 365 << endl;
     cout << "Circumference rate" << endl;
