@@ -4,6 +4,6 @@ using namespace std;
 int main() {
     int a = 3;
     char c = 'C';
-    cout << b << "!.....!" << a;
+    cout << c << "!.....!" << a;
     return 0;
 }
