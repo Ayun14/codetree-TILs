@@ -8,5 +8,7 @@ int main() {
     a = c;
     c = temp;
 
+    cout << a << '\n' << b << '\n' << c;
+
     return 0;
 }
