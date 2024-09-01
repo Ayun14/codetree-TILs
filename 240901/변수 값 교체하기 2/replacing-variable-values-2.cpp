@@ -5,6 +5,6 @@ int main() {
     int a = 5;
     int b = 3;
     b = a;
-    cot << a << '\n' << b;
+    cout << a << '\n' << b;
     return 0;
 }
